@@ -1,11 +1,13 @@
 Configure your own bestekbak
 
-- add/remove columns/rows by side bar
-- change columns/rows size by entering or dragging
+- add/remove cols/rows by side bar
+- change cols/rows size by number or dragging
 - press and drag to define sections
-- click x to remove
+- click x to remove sections
 - overlapping sections are obviously forbidden
 - click preview to show how it would look like
+- fr(ame) = equal division, click to change to cm
+- based on [cssgrid-generator](https://github.com/sdras/cssgridgenerator)
 
 # structural_config
 
@@ -23,6 +25,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
