@@ -1,0 +1,16 @@
+{
+  "form": {
+    "columns": "kolommen",
+    "rows": "rijen",
+    "thickness": "dikte",
+    "height": "maat 1",
+    "width": "maat 2",
+    "depth": "diepte",
+    "code_button": "preview",
+    "reset": "resetten",
+    "units": "(cm)"
+  },
+  "grid": {
+    "template_option": "fr of cm"
+  }
+}

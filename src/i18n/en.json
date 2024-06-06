@@ -1,0 +1,22 @@
+{
+  "form": {
+    "columns": "columns",
+    "rows": "rows",
+    "thickness": "thickness",
+    "height": "size 1",
+    "width": "size 2",
+    "depth": "depth",
+    "code_button": "preview",
+    "reset": "reset",
+    "units": "(cm)"
+  },
+  "grid": {
+    "template_option": "fr or cm"
+  },
+  "demo": {
+    "header": {
+      "title": "your tray"
+    },
+    "button": "done"
+  }
+}
